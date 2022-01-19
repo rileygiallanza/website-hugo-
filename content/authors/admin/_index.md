@@ -46,7 +46,8 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/Giallanza - Resume (2).pdf
+#   link: 
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "giallanza.r@northeastern.edu"
@@ -60,5 +61,4 @@ My other research interests include epidemiology and biostatistics. I am also pr
 </p>
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Giallanza - Resume (2).pdf" "newtab" >}}resumé{{< /staticref >}}. 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GiallanzaR.2022.Resume.pdf" "newtab" >}}resumé{{< /staticref >}}. 
