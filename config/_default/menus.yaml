@@ -8,9 +8,22 @@ main:
     url: classes/
     weight: 10
   - name: Articles
-    url: articles_/
+    url: article-post/
     weight: 20
+    Identifier: "article"
   - name: Photography
     url: photography/
     weight: 30
+  - name: Public art
+    url: public-art/
+    Identifier: "article-1"
+    Parent: "article"
+  - name: Candid
+    url: candid/
+    Identifier: "article-2"
+    Parent: "article"
+  - name: Dramatizing Women
+    url: dramatizing-women/
+    Identifier: "article-3"
+    Parent: "article"
  

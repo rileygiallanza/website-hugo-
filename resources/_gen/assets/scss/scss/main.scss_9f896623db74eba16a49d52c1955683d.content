@@ -8108,6 +8108,7 @@ a.summary-link {
 .dropdown-menu {
   background-color: #fff !important;
   color: #34495e !important;
+  border: 0;
   z-index: 1032; }
 
 .navbar {
