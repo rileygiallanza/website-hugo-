@@ -7,9 +7,10 @@ main:
   - name: Classes
     url: classes/
     weight: 10
+  - name: Articles
+    url: articles_/
+    weight: 20
   - name: Photography
     url: photography/
-    weight: 20
-  - name: Articles
-    url: Articles/
     weight: 30
+ 
