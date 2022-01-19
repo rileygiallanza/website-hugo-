@@ -52,7 +52,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "giallanza.r@northeastern.edu"
 ---
-<img src="/authors/admin/_index_files/featured.jpg" width=50%>
+<img src="/static/authors/admin/_index_files/featured.jpg" width=50%>
 
 <p style="text-align: left;">
 Hi there! I am a second year undergraduate student at Northeastern University studying Health Science in the Bouvé College of Health Sciences. My education interests lie in the realm of public health. I'm incredibly passionate about advocacy for public health, specifically for environmental health justice. Currently, I am writing a literature review as a "Health Equity Research Intern" about using public art as a mechanism for educating the public on the threats climate change poses to health. 
