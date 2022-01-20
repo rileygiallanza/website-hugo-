@@ -55,7 +55,7 @@
   padding-bottom: $navbar-brand-padding-y;
   margin-right: $navbar-padding-x;
   @include font-size($navbar-brand-font-size);
-  line-height: inherit;
+  line-height: 2.5;
   white-space: nowrap;
 
   @include hover-focus() {
