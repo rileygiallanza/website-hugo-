@@ -8,6 +8,9 @@ title: Articles
 view: community/article
 
 type: article
+
+design:
+  columns: "1"
 ---
 <html>
 	<body>
@@ -18,10 +21,7 @@ type: article
 "/public-art/featured.jpg">
 			</div>
 			<div class="content">
-				<a class="header">Public Art, Profit Maximization, and a River Basin Covered in Pig Carcasses</a>
-				<div class="description">
-				How China’s Industrial Revolution Has Triumphed Over Cultural Norms and led to Environmental Degradation
-				</div>
+				<a class="header">Public Art, Profit, and Climate Change</a>
 			</div>
 		<form method="get" action="/public-art/">
     <button class="btn1"type="submit">Read!</button>
@@ -36,10 +36,7 @@ type: article
 "/candid/DSC_3167 (1).jpg">
 			</div>
 			<div class="content">
-				<a class="header">Candid</a>
-				<div class="description">
-				An Exploration of the Photography World and its Presence in the Technological Age
-				</div>
+				<a class="header">Candid - Photography in the Modern Technological Age                      </a>
 			</div>
 		<form method="get" action="/candid/">
     <button class="btn1"type="submit">Read!</button>
@@ -54,10 +51,7 @@ type: article
 "/dramatizing-women/featured.jpg">
 			</div>
 			<div class="content">
-				<a class="header">A Dramatic Response to Being Called Emotional</a>
-				<div class="description">
-				How the American Patriarchy Has Shaped Women's Communication
-				</div>
+				<a class="header">A Dramatic Response to Being Called Emotional                                </a>
 			</div>
 		<form method="get" action="/dramatizing-women/">
     <button class="btn1"type="submit">Read!</button>
@@ -71,20 +65,39 @@ type: article
 <style>
 .grid-container{
   display: grid;
-  grid-template-columns: repeat(3, 250px);
+  grid-template-columns: repeat(3, 325px);
   grid-auto-rows: auto;
-  grid-gap: 3rem;
+  grid-gap: 7rem;
+}
+img {
+  height: 250px;
+  width: 3000px;
+  vertical-align: middle;
 }
 .card{
-  width: 250px;
+  width: 325px;
   padding: 20px;
-  border: 1px;
+  text-align: center;
+  background: linear-gradient(to top, #f2f7f7 40%, #90a6a6 70%);
+  background-color: #00000000;
+  border: 0;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
 }
 .btn1 {
-  color : rgb(0, 0, 0);
-  background-color: rgba(255, 255, 255);
-  border-radius: 0px 0px 0px 0px;
-  font-size: 16px;
+  color: #8ba0a3;
+  padding: 0.8rem;
+  font-size: 14px;
+  text-transform: uppercase;
+  border-radius: 0.5px;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  cursor: pointer;
+  background: transparent;
+  tect-align: center;
 }
 </style>
 </html>
