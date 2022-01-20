@@ -5,14 +5,15 @@ name = "Forest"
 light = true
 
 # Primary
-primary = "#4caf50"
+primary = "hsla(195, 58%, 43%, 1.0)"
 
 # Menu
-menu_primary = "#4caf50"
-menu_text = "#fff"
-menu_text_active = "#1b5e20"
-menu_title = "#fff"
+menu_primary = "hsla(205, 30%, 85%, 0.2)"
+menu_text = "hsla(195, 58%, 43%, 1.0)"
+menu_text_active = "hsla(195, 90%, 43%, 1.0)"
+menu_title = "hsla(195, 58%, 43%, 1.0)"
 
-# Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+# Backgrounds
+background = "hsla(205, 30%, 85%, 0.2)"
+home_section_odd = "hsla(205, 30%, 85%, 0.2)"
+home_section_even = "hsla(205, 30%, 85%, 0.2)"
