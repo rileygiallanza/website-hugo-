@@ -18,21 +18,6 @@ design:
 			<div class="ui card">
 			<div class="image">
 				<img src=
-"/public-art/featured.jpg">
-			</div>
-			<div class="content">
-				<a class="header">Public Art, Profit, and Climate Change</a>
-			</div>
-		<form method="get" action="/public-art/">
-    <button class="btn1"type="submit">Read!</button>
-</form>	
-		</div>
-	</body>
-	<body>
-		<div class="grid-container">
-			<div class="ui card">
-			<div class="image">
-				<img src=
 "/candid/DSC_3167 (1).jpg">
 			</div>
 			<div class="content">
@@ -54,6 +39,21 @@ design:
 				<a class="header">A Dramatic Response to Being Called Emotional                                </a>
 			</div>
 		<form method="get" action="/dramatizing-women/">
+    <button class="btn1"type="submit">Read!</button>
+</form>	
+		</div>
+	</body>
+	<body>
+		<div class="grid-container">
+			<div class="ui card">
+			<div class="image">
+				<img src=
+"/public-art/featured.jpg">
+			</div>
+			<div class="content">
+				<a class="header">Public Art, Profit, and Climate Change</a>
+			</div>
+		<form method="get" action="/public-art/">
     <button class="btn1"type="submit">Read!</button>
 </form>	
 		</div>
