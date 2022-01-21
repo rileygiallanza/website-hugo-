@@ -21,10 +21,9 @@ design:
 "/candid/DSC_3167 (1).jpg">
 			</div>
 			<div class="content">
-				<a class="header">Candid - Photography in the Modern Technological Age                      </a>
 			</div>
 		<form method="get" action="/candid/">
-    <button class="btn1"type="submit">Read!</button>
+    <button class="btn1"type="submit">Candid - Photography in the Modern Technological Age</button>
 </form>	
 		</div>
 	</body>
@@ -36,10 +35,9 @@ design:
 "/dramatizing-women/featured.jpg">
 			</div>
 			<div class="content">
-				<a class="header">A Dramatic Response to Being Called Emotional                                </a>
 			</div>
 		<form method="get" action="/dramatizing-women/">
-    <button class="btn1"type="submit">Read!</button>
+    <button class="btn1"type="submit">A Dramatic Response to Being Called Emotional</button>
 </form>	
 		</div>
 	</body>
@@ -51,10 +49,9 @@ design:
 "/public-art/featured.jpg">
 			</div>
 			<div class="content">
-				<a class="header">Public Art, Profit, and Climate Change</a>
 			</div>
 		<form method="get" action="/public-art/">
-    <button class="btn1"type="submit">Read!</button>
+    <button class="btn1"type="submit">Public Art, Profit, and Climate Change</button>
 </form>	
 		</div>
 	</body>
@@ -78,8 +75,7 @@ img {
   width: 325px;
   padding: 20px;
   text-align: center;
-  background: linear-gradient(to top, #f2f7f7 40%, #90a6a6 70%);
-  background-color: #00000000;
+  background: transparent;
   border: 0;
   box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
   display: flex;
@@ -87,17 +83,17 @@ img {
   overflow: hidden;
 }
 .btn1 {
-  color: #8ba0a3;
-  padding: 0.8rem;
-  font-size: 14px;
-  text-transform: uppercase;
-  border-radius: 0.5px;
-  font-weight: 500;
-  display: block;
+  color: hsla(195, 58%, 43%, 1.0);
+  font-size: 25px;
+  border: 0;
+  font-weight: 50;
   width: 100%;
   cursor: pointer;
   background: transparent;
-  tect-align: center;
+  padding: 15px;
+}
+.btn1:hover {
+  background-color: #e9ecee;
 }
 </style>
 </html>

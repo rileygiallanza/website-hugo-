@@ -60,6 +60,7 @@ design:
   padding: 20px;
   border: 1px;
   text-align: center;
+  background: transparent;
 
 }
 img {
@@ -67,11 +68,10 @@ img {
   align: center;
 }
 .btn1 {
-  color: #17191a;
+  color: hsla(195, 58%, 43%, 1.0);
   font-size: 25px;
-  text-transform: uppercase;
   border: 0;
-  font-weight: 500;
+  font-weight: 50;
   width: 100%;
   cursor: pointer;
   background: transparent;
