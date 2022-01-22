@@ -4,7 +4,7 @@ title: Landscapes & Cityscapes
 design:
   columns: "1"
 ---
-  <div class="container">
+<div class="container">
   <div class="tile">
   <img src="/travel/image1.jpg" alt="">
   </div>
