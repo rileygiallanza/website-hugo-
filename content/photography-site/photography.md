@@ -18,7 +18,7 @@ design:
 			<div class="ui card">
 			<div class="image">
 				<img src=
-"/portraits/featured.jpg">
+"/portraits/image.jpg">
 			</div>
 			<div class="content">
 			</div>
@@ -35,7 +35,7 @@ design:
 			<div class="ui card">
 			<div class="image">
 				<img src=
-"/travel/featured.jpg">
+"/travel/image.jpg">
 			</div>
 			<div class="content">
 			</div>
