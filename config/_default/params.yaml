@@ -16,7 +16,6 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
 
 # Site header
 
@@ -63,7 +62,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: false
   allow_derivatives: false
