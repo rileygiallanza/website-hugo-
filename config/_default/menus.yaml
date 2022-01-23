@@ -7,7 +7,7 @@ main:
   - name: Classes
     url: classes/
     weight: 10
-  - name: Article
+  - name: Articles
     url: article-post/
     weight: 20
     Identifier: "article"
@@ -15,6 +15,7 @@ main:
     url: photography-site/
     Identifier: "photo"
     weight: 40
+
  
 
  

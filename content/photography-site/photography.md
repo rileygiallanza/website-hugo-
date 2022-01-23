@@ -22,9 +22,9 @@ design:
 			</div>
 			<div class="content">
 			</div>
-		<form method="get" action="/portraits/">
+		<a method="get" href="/portraits/">
     <button class="btn1"type="submit">Portraits</button>
-</form>	
+</a>	
 		</div>
 	</body>
 </html>
@@ -39,9 +39,9 @@ design:
 			</div>
 			<div class="content">
 			</div>
-		<form method="get" action="/travel/">
+		<a method="get" href="/travel/">
     <button class="btn1"type="submit">Landscapes & Cityscapes</button>
-</form>	
+</a>	
 		</div>
 	</body>
 </html>

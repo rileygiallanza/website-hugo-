@@ -22,9 +22,9 @@ design:
 			</div>
 			<div class="content">
 			</div>
-		<form method="get" action="/candid/">
+		<a method="get" href="/candid/">
     <button class="btn1"type="submit">Candid - Photography in the Modern Technological Age</button>
-</form>	
+</a>	
 		</div>
 	</body>
 	<body>
@@ -36,9 +36,9 @@ design:
 			</div>
 			<div class="content">
 			</div>
-		<form method="get" action="/dramatizing-women/">
+		<a method="get" href="/dramatizing-women/">
     <button class="btn1"type="submit">A Dramatic Response to Being Called Emotional</button>
-</form>	
+</a>	
 		</div>
 	</body>
 	<body>
@@ -50,9 +50,9 @@ design:
 			</div>
 			<div class="content">
 			</div>
-		<form method="get" action="/public-art/">
+		<a method="get" href="/public-art/">
     <button class="btn1"type="submit">Public Art, Profit, and Climate Change</button>
-</form>	
+</a>	
 		</div>
 	</body>
 </html>
