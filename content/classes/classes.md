@@ -21,7 +21,7 @@ design:
   <!-- First Year  -->
     <tr>
       <td rowspan="4">1st Year</td>
-      <td><a href="/classes/">Foundations of Psychology</a></td>
+      <td><a href="/classes-notes/psyc1101">Foundations of Psychology</a></td>
       <td><a href="cs2510">General Biology 2 + Lab</a></td>
       <td><a href="cs3500">Genetics and Molecular Biology</a></td>
       <td><a href="phil2325">Introduction to Sociology</a></td>
