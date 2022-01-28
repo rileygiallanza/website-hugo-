@@ -7214,7 +7214,7 @@ body {
   font-size: 1rem;
   line-height: inherit;
   color: inherit;
-  background-color: rgba(205, 219, 228, 0.2);
+  background-color: #ffffff;
   padding-top: 0;
   counter-reset: captions;
   overflow-x: hidden;
@@ -8065,7 +8065,7 @@ a.summary-link {
  *  Modals.
  **************************************************/
 .modal-content {
-  background: rgba(205, 219, 228, 0.2); }
+  background: #ffffff; }
 
 .dark .modal-content {
   background: #23252f; }
@@ -8707,7 +8707,7 @@ html[dir='rtl'] body {
 .search-modal {
   transform: scale(0);
   -webkit-transform: scale(0);
-  background-color: rgba(205, 219, 228, 0.2);
+  background-color: #ffffff;
   bottom: 0;
   left: 0;
   right: 0;
@@ -8733,7 +8733,7 @@ html[dir='rtl'] body {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  background-color: rgba(205, 219, 228, 0.2);
+  background-color: #ffffff;
   padding-top: 2rem;
   padding-bottom: 1rem; }
   @media (max-width: 991.98px) {
@@ -8892,7 +8892,7 @@ html[dir='rtl'] body {
  *  Page Builder: sections and widgets
  **************************************************/
 .home-section {
-  background: rgba(205, 219, 228, 0.2);
+  background: #ffffff;
   position: relative;
   padding: 110px 0 110px 0;
   z-index: 0; }
@@ -8984,7 +8984,7 @@ html[dir='rtl'] body {
   padding-top: 50px; }
 
 .home-section:nth-of-type(even) {
-  background: rgba(205, 219, 228, 0.2); }
+  background: #ffffff; }
 
 .dark .home-section {
   background: #272935; }
