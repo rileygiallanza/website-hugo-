@@ -39,7 +39,7 @@ design:
   <td /> -->
     </tr>
       <tr>
-      <td><a href="cs2500">First Year Writing</a></td>
+      <td><a href="/classes-notes/engw1111">First Year Writing</a></td>
       <td><a href="engl2150">Moral and Social Issues in Healthcare</a></td>
   <!-- <td />
   <td /> -->
